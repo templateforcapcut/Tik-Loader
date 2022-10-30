@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "Version_code"         : 1.0,  // Change Version name of the new update
+      "Version_code"         : 1.1,  // Change Version name of the new update
       "Update_Title"         : " New Update Available Tik Loader ",
       "Update_Message"       : "The latest update to this app has just been released",
       "Update_Button_text"   : "update",
