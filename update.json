@@ -2,7 +2,7 @@
   "rows": [
     {
       "Version_code"         : 1.4,  // Change Version name of the new update
-      "Update_Title"         : " New Update Available ",
+      "Update_Title"         : " New Update Available Tik Loader ",
       "Update_Message"       : "The latest update to this app has just been released",
       "Update_Button_text"   : "update",
       "Link"                 : "https://play.google.com/store/apps/details?id=com.cy.templateforcapcut",
